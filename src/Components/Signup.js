@@ -68,7 +68,7 @@ const Signup = () => {
       <div className="left">
         <img src="https://i.ibb.co/FHzGnZN/logo.png" alt="" />
         <p className="desc">Find 3D Objects, Mockups and Illustration here.</p>
-        <img src="/Images/Abstraction.png" alt="" className="illustration" />
+        <img src="./Images/Abstraction.png" alt="" className="illustration" />
       </div>
       <div className="right">
         <div className="wrSignuper">
